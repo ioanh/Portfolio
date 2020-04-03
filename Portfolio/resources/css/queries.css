@@ -1,0 +1,63 @@
+@media only screen and (max-width:1200px) {
+   
+    
+
+    
+    .work-queries{
+        width: 100%;
+    }
+   
+   
+
+}
+
+@media only screen and (max-width:1023px) {
+    
+  
+
+    .hero-text-box{
+        position: relative;
+        right:  100px;
+        width: 80%;
+    }
+    nav{
+        margin-right: 5%;
+    }
+    
+    .sticky .main-nav li {
+        
+        margin-right: 10px;
+        
+    }
+
+    
+    
+    #about-me{
+        height: 100vh;
+    }
+
+
+
+}
+
+@media only screen and (max-width:767px) {
+
+
+    .explanation{
+        font-size: 90%;
+    }
+
+    .mail,
+    .footer-queries{
+        font-size: 100%;
+    }
+
+    .hvr-grow{
+        font-size: 150%;
+    }
+    .pig{
+        position: fixed;
+    }
+
+
+}
